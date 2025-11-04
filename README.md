@@ -46,9 +46,5 @@ http://localhost:3001
 ✅ **Rate limiting** (1 email/second to avoid blocks)
 
 ### Your SMTP Settings:
-- Host: `mail.alliancetrustsolutions.com`
-- Port: `587`
-- Username: `your@alliancetrustsolutions.com`
-- Password: Your email password
-
+- Host: `
 The complete setup guide has everything including troubleshooting tips! Let me know if you need help with any step! 🚀
